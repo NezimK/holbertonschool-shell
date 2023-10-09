@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -R --from=Guillaume Vincent *
+chown -R --from=Guillaume> Vincent hello/
