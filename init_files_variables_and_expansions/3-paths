@@ -1,2 +1,2 @@
 #!/bin/bash
-eco $PATH -type d | wc -l
+eco PATH/ -type d | wc -l
