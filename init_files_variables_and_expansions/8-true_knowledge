@@ -1,3 +1,2 @@
 #!/bin/bash
 set /a resultat=TRUEKNOWLEDGE + 128
-
